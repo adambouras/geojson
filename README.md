@@ -17,6 +17,12 @@ source .geojsonvenv/bin/activate
 ```
 pip install -r requirements.txt
 ```
+* include  the census api key in the .zshrc file
+
+```
+export CENSUS_API_KEY="your census api key"
+```
+
 * run the jupyternote book
 
 
